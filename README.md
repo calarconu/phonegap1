@@ -6,12 +6,12 @@ Aplicación creada solamente a modo de prueba por requerimiento de Cursor.cl. La
 
 Para que todo funcione correctamente se debe tener configurado el ambiente de desarrollo con las siguientes dependencias (en windows):
 
--NodeJS
+- NodeJS
 ```
-Descargar NodeJs para windows de la siguiente ruta: https://nodejs.org/es/download/
+Descargar NodeJs para windows de la siguiente ruta: [Descargar Node JS] (https://nodejs.org/es/download/)
 ```
 
--Posterior a instalar NodeJS, se debe instalar Ionic y Cordova
+- Posterior a instalar NodeJS, se debe instalar Ionic y Cordova
 ```
 npm install -g ionic
 npm install -g cordova
@@ -38,3 +38,9 @@ En el caso que la consola arroje errores con el mensaje parecido a "error: spawn
 ```
 ionic hooks add
 ```
+
+## Tecnologías Usadas
+
+- Ionic Framework V1
+- AngularJS v1
+- Api Rest
